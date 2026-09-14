@@ -231,4 +231,4 @@ This repository serves as the official landing page for Plist Editor. The softwa
 **Get the most recent version of Plist Editor today!**
 
 ---
-**Last updated:** 2026-09-14 15:24:52 UTC
+**Last updated:** 2026-09-14 20:01:47 UTC
